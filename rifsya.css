@@ -1,0 +1,13 @@
+body {
+    background-color: gold;
+    font-family: sans-serif;
+}
+
+ul{
+    margin: 10px;
+}
+
+button {
+    background-color: rgb(53, 199, 138);
+    text-decoration-color: white
+}
